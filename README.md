@@ -1,0 +1,3 @@
+-  I’m C4KAR
+-  Python/C++/AI
+-  XY chromosomes
